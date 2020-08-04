@@ -1,0 +1,21 @@
+.custom-skill-logo-show {
+    /* background-color: aqua; */
+    /* height: 100px */
+}
+
+/* .custom-skill-logo {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+} */
+
+.custom-skill-logo img {
+    max-height: 100px;
+    max-width: 100px;
+    padding: 20px;
+    /* max-width: 100px; */
+    /* align: middle; */
+    /* max-height: 100px;
+    max-width: 100px; */
+    /* width: auto; */
+}
