@@ -10,12 +10,16 @@
 } */
 
 .custom-skill-logo img {
-    max-height: 100px;
-    max-width: 100px;
+    max-height: 150px;
+    max-width: 150px;
     padding: 20px;
     /* max-width: 100px; */
     /* align: middle; */
     /* max-height: 100px;
     max-width: 100px; */
     /* width: auto; */
+}
+
+.custom-footer-logos {
+    font-size: 20px;
 }
